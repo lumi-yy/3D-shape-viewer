@@ -2,6 +2,10 @@
 build/
 cmake-build-*/
 
+# Editor / tooling
+.vscode/
+.cache/
+
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
